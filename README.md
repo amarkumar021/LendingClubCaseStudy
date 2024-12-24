@@ -11,10 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project demonstrate the data analysis for providing risk free lending money to their customer.
+- Consumer finance company wants to get perform analysis to get insight before providing loan to their appliants. 
+- Company has exiting customer data and company wants to analysis their data to get risk analysis before any further steps
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +27,20 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas - version 2.2.1
+- NumPy - version 2.2.1
+- Matplotlib - version 3.10
+- Seaborn - version 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- I would like to express my gratitude to upGrad for their invaluable guidance and support for this project.
+- I extend my sincere thanks to my teammate Mayur for his collaborative efforts and dedication to achieving our goals.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @amarkumar021 - feel free to contact me!
 
 
 <!-- Optional -->
