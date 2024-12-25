@@ -28,21 +28,22 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Applicants whose homeownership status is listed as "MORTGAGE" are more prone to default.
-- Higher interest rates are a significant contributing factor to loan defaults.
-- Borrowers those with over 10 years of work experience are at a higher risk of defaulting.
-- The primary factors influencing the likelihood of loan default include grades, verification status, annual income, debt-to-income ratio (DTI), and public records.
-  
+- High Interest Rates Correlate with Higher Charge-Off Risk: Loans with higher interest rates, especially in the 10-15% range, show significantly higher charge off rates, indicating a greater lending risk.
+- Large Loan Amounts and Longer Terms Increase Risk: Larger loans, often with longer terms (e.g., 60 months), have higher default rates due to increased exposure and potentially higher interest rates.
+- High DTI and More Open Accounts are Associated with Higher Default Risk: Borrowers with high DTI (10-20) and a large number of open accounts (2-20) tend to default more frequently, highlighting the need for careful assessment of financial behavior.
+- Income Verification Plays a Key Role: Unverified income loans have higher charge off rates, but verified income loans have larger loan amounts, suggesting potential issues with verification methods.
+- Loan Purpose and Borrower Profile Impact Default Rates: Small businesses and borrowers with higher-grade loans (e.g., Grade B & C) and larger loan amounts are at higher risk of default, while debt consolidation, although common, does not have the highest charge off rate.
 
 ### Driving factors:
-- High Interest Rates Correlate with Higher Charge-Off Risk:** Loans with higher interest rates, especially in the 10-15% range, show significantly higher charge off rates, indicating a greater lending risk.
-- Large Loan Amounts and Longer Terms Increase Risk:** Larger loans, often with longer terms (e.g., 60 months), have higher default rates due to increased exposure and potentially higher interest rates.
-- High DTI and More Open Accounts are Associated with Higher Default Risk:** Borrowers with high DTI (10-20) and a large number of open accounts (2-20) tend to default more frequently, highlighting the need for careful assessment of financial behavior.
-- Income Verification Plays a Key Role:** Unverified income loans have higher charge off rates, but verified income loans have larger loan amounts, suggesting potential issues with verification methods.
-- Loan Purpose and Borrower Profile Impact Default Rates:** Small businesses and borrowers with higher-grade loans (e.g., Grade B & C) and larger loan amounts are at higher risk of default, while debt consolidation, although common, does not have the highest charge off rate.
+- Purpose
+- Interest Rate
+- Loan Amount
+- Income verification
+- DTI
+- Annual Income
 
 ### Recommendations
--  Adjust Interest Rates: Offer tiered rates based on risk profiles; avoid excessively high rates.
+- Adjust Interest Rates: Offer tiered rates based on risk profiles; avoid excessively high rates.
 - Limit Loan Amounts and Terms: Cap loans for high-risk borrowers and prefer shorter terms.
 - Strict DTI and Account Limits: Set stricter DTI and account limits for eligibility.
 - Better Income Verification: Use robust income checks (pay stubs, tax returns) and automate processes.
