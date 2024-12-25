@@ -67,7 +67,7 @@
 
 
 ## Contact
-Created by @amarkumar021 - feel free to contact us!
+Created by @amarkumar021 and @MayurSurkutla - feel free to contact us!
 
 
 <!-- Optional -->
