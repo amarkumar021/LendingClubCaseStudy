@@ -41,7 +41,7 @@
 - Income Verification Plays a Key Role:** Unverified income loans have higher charge off rates, but verified income loans have larger loan amounts, suggesting potential issues with verification methods.
 - Loan Purpose and Borrower Profile Impact Default Rates:** Small businesses and borrowers with higher-grade loans (e.g., Grade B & C) and larger loan amounts are at higher risk of default, while debt consolidation, although common, does not have the highest charge off rate.
 
-### Recomendations
+### Recommendations
 -  Adjust Interest Rates: Offer tiered rates based on risk profiles; avoid excessively high rates.
 - Limit Loan Amounts and Terms: Cap loans for high-risk borrowers and prefer shorter terms.
 - Strict DTI and Account Limits: Set stricter DTI and account limits for eligibility.
