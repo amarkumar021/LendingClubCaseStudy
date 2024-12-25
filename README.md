@@ -54,10 +54,10 @@
 
 
 ## Technologies Used
-- Python - version 3.13.0
-- Pandas - version 2.2.1
+- Python - version 3.12.4
+- Pandas - version 2.2.2
 - NumPy - version 2.2.1
-- Matplotlib - version 3.10
+- Matplotlib - version 3.8.4
 - Seaborn - version 0.13.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
