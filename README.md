@@ -28,10 +28,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Applicants whose homeownership status is listed as "MORTGAGE" are more prone to default.
+- Higher interest rates are a significant contributing factor to loan defaults.
+- Borrowers those with over 10 years of work experience are at a higher risk of defaulting.
+- The primary factors influencing the likelihood of loan default include grades, verification status, annual income, debt-to-income ratio (DTI), and public records.
+  
 
 ### Driving factors:
 - Purpose
