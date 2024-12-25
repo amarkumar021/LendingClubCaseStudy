@@ -14,9 +14,9 @@
 ### Project Information
 - We are collaborating with a consumer finance company that specializes in providing various types of loans to urban customers. When a loan application is received, the company must decide whether to approve the loan based on the applicant's profile. This decision involves two primary risks:
 
-####Loss of Business: 
+#### Loss of Business: 
 - If the applicant is likely to repay the loan but the loan is not approved, it results in a missed business opportunity.
-####Financial Loss: 
+#### Financial Loss: 
 - If the applicant is likely to default on the loan, approving it may lead to a financial loss for the company.
 ### Project Background
 - Lending Club, the largest online loan marketplace, facilitates personal loans, business loans, and financing for medical procedures. Its fast online platform allows borrowers to access loans at lower interest rates conveniently.
